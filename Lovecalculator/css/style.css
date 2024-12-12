@@ -85,7 +85,7 @@ button:hover {
 }
 
 #foto {
-    max-width: 300px; /* Controla el ancho máximo */
-    max-height: 300px; /* Controla la altura máxima */
-    object-fit: contain; /* Mantiene las proporciones de la imagen */
+    max-width: 300px; 
+    max-height: 300px; 
+    object-fit: contain; 
 }
